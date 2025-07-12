@@ -22,7 +22,7 @@ This Power BI report provides a comprehensive visualization of Amazon sales data
 🔍 Interactive filters for dynamic analysis
 
 🔧 Tools Used:
-_> Power BI Desktop
+-> Power BI Desktop
 -> Data transformation using Power Query
 -> DAX measures for KPIs and custom visuals
 
