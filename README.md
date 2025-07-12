@@ -12,6 +12,20 @@ Interactive Power BI report analyzing Amazon sales by product, category, region,
 product movement.
 ➤ YTD Reviews: Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
 
--> Dashboard Interaction <a href="https://github.com/janvibhagwani/Amazon-Sales-Dashboard-/blob/main/amazon.pbix">View Dashboard</a>
+This Power BI report provides a comprehensive visualization of Amazon sales data, focusing on:
+
+🛒 Product-wise sales performance
+
+📦 Category and sub-category breakdown
+🌎 Region and state-wise distribution
+📈 Monthly and yearly sales trends
+🔍 Interactive filters for dynamic analysis
+
+🔧 Tools Used:
+_> Power BI Desktop
+-> Data transformation using Power Query
+-> DAX measures for KPIs and custom visuals
+
+
 
 
