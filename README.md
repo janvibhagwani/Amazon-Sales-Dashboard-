@@ -15,7 +15,7 @@ product movement.
 
 ➤ YTD Reviews: Keep tabs on year-to-date product reviews to assess customer feedback and satisfaction.
 
-This Power BI report provides a comprehensive visualization of Amazon sales data, focusing on:
+## This Power BI report provides a comprehensive visualization of Amazon sales data, focusing on:
 
 🛒 Product-wise sales performance
 
